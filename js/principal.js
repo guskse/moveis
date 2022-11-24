@@ -1,5 +1,5 @@
 let banners =
-["Os melhores do Brasil!", "Qualidade e preço baixo!"];
+["Do Lixo ao Luxo", "Reaproveitar é aproveitar!"];
 var bannerAtual = 0;
 
 
